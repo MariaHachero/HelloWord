@@ -1,0 +1,56 @@
+﻿body {
+    background-image: url("/Imagenes/background.jpg");
+    background-size:cover;
+}
+
+.maindiv{
+    height:100vh;
+    width:100vw;
+}
+
+.tablero{
+    /*display:inline-block;*/
+    height:616px;
+    width:616px;
+    margin:0 auto;
+    padding: 20px;
+    background-color:rgba(255,255,255, 0.5);
+
+}
+
+.title h1{
+    font-family: 'Charmonman', cursive;
+    font-size: 26pt;
+    text-align:center;
+    color:deeppink;
+}
+
+.fila {
+    overflow: hidden;
+}
+
+.celda, .celdaVacia {
+    width: 34px;
+    height: 34px;
+    float: left;
+    padding: 7px;
+}
+
+.celda {
+    background-image: url("/Imagenes/CeldaVacia.png");
+}
+
+.header{
+    margin: 30px;
+}
+
+.header .content{
+    width: 576px;
+    margin: 0 auto;
+}
+
+.header .content .puntaje{
+    font-size:24px;
+    color:deeppink;
+
+}

@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Juego</title>
+    @*pra el estilo*@
+    <link href="https://fonts.googleapis.com/css?family=Charmonman" rel="stylesheet">
+    @*para llamar a los css que hemos creado*@
+    <link rel="stylesheet" type="text/css" href="~/Css/reset.css" />
+    <link rel="stylesheet" type="text/css" href="~/Css/styles.css" />
+
+</head>
+<body>
+    <div class="maindiv">
+        <div class="title">
+            <h1>Revenue Cash</h1>
+        </div>
+        @if(IsSectionDefined("Header"))
+        {
+            @RenderSection("header");
+        }
+        @RenderBody()
+    </div>
+
+</body>
+</html>

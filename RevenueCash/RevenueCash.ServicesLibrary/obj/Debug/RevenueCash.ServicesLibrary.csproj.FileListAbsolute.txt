@@ -1,0 +1,14 @@
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.ServicesLibrary\bin\Debug\RevenueCash.ServicesLibrary.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.ServicesLibrary\bin\Debug\RevenueCash.ServicesLibrary.pdb
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.ServicesLibrary\bin\Debug\RevenueCash.Models.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.ServicesLibrary\bin\Debug\RevenueCash.Models.pdb
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.ServicesLibrary\obj\Debug\RevenueCash.ServicesLibrary.csprojResolveAssemblyReference.cache
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.ServicesLibrary\obj\Debug\RevenueCash.ServicesLibrary.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.ServicesLibrary\obj\Debug\RevenueCash.ServicesLibrary.pdb
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.ServicesLibrary\obj\Debug\RevenueCash.ServicesLibrary.csprojResolveAssemblyReference.cache
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.ServicesLibrary\bin\Debug\RevenueCash.ServicesLibrary.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.ServicesLibrary\bin\Debug\RevenueCash.ServicesLibrary.pdb
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.ServicesLibrary\bin\Debug\RevenueCash.Models.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.ServicesLibrary\bin\Debug\RevenueCash.Models.pdb
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.ServicesLibrary\obj\Debug\RevenueCash.ServicesLibrary.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.ServicesLibrary\obj\Debug\RevenueCash.ServicesLibrary.pdb

@@ -1,0 +1,17 @@
+﻿@model RevenueCash.Models.Juego.Game
+@{
+    Layout = "/Views/shared/_Layout.cshtml";
+}
+
+@*para poder escribir en el header*@
+@section header{
+    <div class="header">
+        <div class="content">
+            <div class="puntaje">@Model.Score</div>
+
+        </div>
+
+    </div>
+}
+
+@Html.Partial("Partials/Tablero", Model.Board);

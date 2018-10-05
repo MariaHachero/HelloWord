@@ -1,0 +1,24 @@
+﻿@model RevenueCash.Models.Piezas.FichaDisparo
+<div class="celdaDisparo">
+    @*disparar es el nombre del metodo, juego es el nombre del controlador y lueg olas propiedades*@
+    <a href="@Url.Action("Disparar", "Juego", new { desdeDonde = Model.DesdeDonde, indice = Model.Indice})">
+        <div class="celdaVacia">
+            @if (Model.Color == RevenueCash.Models.Piezas.ColorFicha.Rojo)
+            {
+                <img src="~/Imagenes/FichaRojo_1.png" />
+            }
+            @if (Model.Color == RevenueCash.Models.Piezas.ColorFicha.Amarillo)
+            {
+                <img src="~/Imagenes/FichaAmarilla_4.png" />
+            }
+            @if (Model.Color == RevenueCash.Models.Piezas.ColorFicha.Verde)
+            {
+                <img src="~/Imagenes/FichaVerde_3.png" />
+            }
+            @if (Model.Color == RevenueCash.Models.Piezas.ColorFicha.Azul)
+            {
+                <img src="~/Imagenes/FichaAzul_2.png" />
+            }
+        </div>
+    </a>
+</div>

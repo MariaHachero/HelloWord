@@ -1,0 +1,33 @@
+﻿@model RevenueCash.Models.Piezas.Tablero
+
+<div class="tablero">
+    <div class="fila disparoArriba">
+        <div class="celdaVacia"></div>
+        @for (int indice = 0; indice < Model.Size; indice++)
+        {
+            @Html.Partial("Partials/FichaDisparo", Model.FichasDisparo[RevenueCash.Models.Piezas.Posicion.Arriba][indice])
+        }
+        <div class="celdaVacia"></div>
+    </div>
+    @for (int fila = 0; fila < Model.Size; fila++)
+    {
+        
+        <div class="fila">
+            @Html.Partial("Partials/FichaDisparo", Model.FichasDisparo[RevenueCash.Models.Piezas.Posicion.Izquierda][fila])
+            @for (int columna = 0; columna < Model.Size; columna++)
+            {
+                @Html.Partial("Partials/Celda", Model.Celdas[fila, columna])
+            }
+            @Html.Partial("Partials/FichaDisparo", Model.FichasDisparo[RevenueCash.Models.Piezas.Posicion.Derecha][fila])
+        </div>
+        
+    }
+    <div class="fila disparoAbajo">
+        <div class="celdaVacia"></div>
+        @for (int indice = 0; indice < Model.Size; indice++)
+        {
+            @Html.Partial("Partials/FichaDisparo", Model.FichasDisparo[RevenueCash.Models.Piezas.Posicion.Abajo][indice])
+        }
+        <div class="celdaVacia"></div>
+    </div>
+</div>

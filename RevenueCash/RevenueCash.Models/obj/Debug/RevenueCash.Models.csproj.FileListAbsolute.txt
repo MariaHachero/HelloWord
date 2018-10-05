@@ -1,0 +1,10 @@
+c:\users\jcumba\documents\visual studio 2015\Projects\RevenueCash\RevenueCash.Models\bin\Debug\RevenueCash.Models.dll
+c:\users\jcumba\documents\visual studio 2015\Projects\RevenueCash\RevenueCash.Models\bin\Debug\RevenueCash.Models.pdb
+c:\users\jcumba\documents\visual studio 2015\Projects\RevenueCash\RevenueCash.Models\obj\Debug\RevenueCash.Models.dll
+c:\users\jcumba\documents\visual studio 2015\Projects\RevenueCash\RevenueCash.Models\obj\Debug\RevenueCash.Models.pdb
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.Models\obj\Debug\RevenueCash.Models.csprojResolveAssemblyReference.cache
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.Models\bin\Debug\RevenueCash.Models.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.Models\bin\Debug\RevenueCash.Models.pdb
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.Models\obj\Debug\RevenueCash.Models.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.Models\obj\Debug\RevenueCash.Models.pdb
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.Models\obj\Debug\RevenueCash.Models.csprojResolveAssemblyReference.cache

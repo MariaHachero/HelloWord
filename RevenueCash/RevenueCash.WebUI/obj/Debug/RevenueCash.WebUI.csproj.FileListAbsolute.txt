@@ -1,0 +1,100 @@
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\ApplicationInsights.config
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\roslyn\csc.exe
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\roslyn\vbc.exe
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\RevenueCash.WebUI.dll.config
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\RevenueCash.WebUI.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\RevenueCash.WebUI.pdb
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\RevenueCash.Models.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\System.Web.Helpers.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\System.Web.Mvc.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\System.Web.Razor.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\System.Web.Webpages.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\RevenueCash.Models.pdb
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\System.Web.Razor.xml
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\System.Web.Webpages.xml
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\System.Web.Helpers.xml
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\System.Web.Mvc.xml
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\obj\Debug\RevenueCash.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\obj\Debug\RevenueCash.WebUI.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\obj\Debug\RevenueCash.WebUI.pdb
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\RevenueCash.ServicesLibrary.dll
+C:\Users\JCUMBA\Documents\Visual Studio 2015\Projects\RevenueCash\RevenueCash.WebUI\bin\RevenueCash.ServicesLibrary.pdb
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\obj\Debug\RevenueCash.WebUI.csprojResolveAssemblyReference.cache
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\ApplicationInsights.config
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\roslyn\csc.exe
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\roslyn\vbc.exe
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\roslyn\VBCSCompiler.exe
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\RevenueCash.WebUI.dll.config
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\RevenueCash.WebUI.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\RevenueCash.WebUI.pdb
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.Web.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\RevenueCash.Models.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\RevenueCash.ServicesLibrary.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\System.Web.Helpers.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\System.Web.Mvc.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\System.Web.Razor.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\System.Web.Webpages.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\System.Web.Webpages.Razor.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\RevenueCash.Models.pdb
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\RevenueCash.ServicesLibrary.pdb
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.Web.xml
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\System.Web.Razor.xml
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\System.Web.Webpages.xml
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\System.Web.Webpages.Razor.xml
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\System.Web.Helpers.xml
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\bin\System.Web.Mvc.xml
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\obj\Debug\RevenueCash.WebUI.dll
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash.WebUI\obj\Debug\RevenueCash.WebUI.pdb

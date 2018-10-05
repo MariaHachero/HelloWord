@@ -1,0 +1,16 @@
+c:\users\jcumba\documents\visual studio 2015\Projects\RevenueCash\RevenueCash\bin\Debug\RevenueCash.exe.config
+c:\users\jcumba\documents\visual studio 2015\Projects\RevenueCash\RevenueCash\bin\Debug\RevenueCash.exe
+c:\users\jcumba\documents\visual studio 2015\Projects\RevenueCash\RevenueCash\bin\Debug\RevenueCash.pdb
+c:\users\jcumba\documents\visual studio 2015\Projects\RevenueCash\RevenueCash\obj\Debug\RevenueCash.Form1.resources
+c:\users\jcumba\documents\visual studio 2015\Projects\RevenueCash\RevenueCash\obj\Debug\RevenueCash.Properties.Resources.resources
+c:\users\jcumba\documents\visual studio 2015\Projects\RevenueCash\RevenueCash\obj\Debug\RevenueCash.csproj.GenerateResource.Cache
+c:\users\jcumba\documents\visual studio 2015\Projects\RevenueCash\RevenueCash\obj\Debug\RevenueCash.exe
+c:\users\jcumba\documents\visual studio 2015\Projects\RevenueCash\RevenueCash\obj\Debug\RevenueCash.pdb
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash\bin\Debug\RevenueCash.exe.config
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash\bin\Debug\RevenueCash.exe
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash\bin\Debug\RevenueCash.pdb
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash\obj\Debug\RevenueCash.Form1.resources
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash\obj\Debug\RevenueCash.Properties.Resources.resources
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash\obj\Debug\RevenueCash.csproj.GenerateResource.Cache
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash\obj\Debug\RevenueCash.exe
+D:\Proyectos\RevenueCash\RevenueCash\RevenueCash\obj\Debug\RevenueCash.pdb

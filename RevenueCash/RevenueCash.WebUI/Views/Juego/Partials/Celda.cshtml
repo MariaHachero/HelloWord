@@ -1,0 +1,22 @@
+﻿@model RevenueCash.Models.Piezas.Celda
+<div class="celda">
+    @if (Model.Ficha != null)
+    {
+        if (Model.Ficha.Color == RevenueCash.Models.Piezas.ColorFicha.Rojo)
+        {
+            <img src="~/Imagenes/FichaRojo_1.png" />
+        }
+        if (Model.Ficha.Color == RevenueCash.Models.Piezas.ColorFicha.Amarillo)
+        {
+            <img src="~/Imagenes/FichaAmarilla_4.png" />
+        }
+        if (Model.Ficha.Color == RevenueCash.Models.Piezas.ColorFicha.Verde)
+        {
+            <img src="~/Imagenes/FichaVerde_3.png" />
+        }
+        if (Model.Ficha.Color == RevenueCash.Models.Piezas.ColorFicha.Azul)
+        {
+            <img src="~/Imagenes/FichaAzul_2.png" />
+        }
+    }
+</div>
